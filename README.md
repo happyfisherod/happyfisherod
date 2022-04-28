@@ -1,6 +1,6 @@
 ### About Me:
 - 😘 Hi, I’m @happyfisherod@
-- 👀 I’m passionate in Software Engineering & Ethereum World
+- 👀 I’m passionate in Software Engineering & Blockchain World
 - 💫 I’m currently focusing on Smart Contract and learning Rust/Go
 - 💞️ I’m looking to collaborate on Smart Contract Development
 
