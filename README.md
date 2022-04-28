@@ -9,9 +9,9 @@
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/happyfisherod/)](https://github.com/happyfisherod/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/happyfisherod/)](https://github.com/happyfisherod/)
 
-[![Solidity](https://github.com/happyfisherod/happyfisherod/blob/main/solidity.png)](https://github.com/happyfisherod/)
-[![Rust](https://github.com/happyfisherod/happyfisherod/blob/main/rust.png)](https://github.com/happyfisherod/)
-[![Go](https://github.com/happyfisherod/happyfisherod/blob/main/go.png)](https://github.com/happyfisherod/)
+[![Solidity](https://github.com/happyfisherod/happyfisherod/blob/master/solidity.png)](https://github.com/happyfisherod/)
+[![Rust](https://github.com/happyfisherod/happyfisherod/blob/master/rust.png)](https://github.com/happyfisherod/)
+[![Go](https://github.com/happyfisherod/happyfisherod/blob/master/go.png)](https://github.com/happyfisherod/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/happyfisherod/)](https://github.com/happyfisherod/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/happyfisherod/)](https://github.com/happyfisherod/) 
